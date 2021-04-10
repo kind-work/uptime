@@ -63,6 +63,7 @@ status-website:
   name: Upptime
   introTitle: "**Upptime**"
   introMessage: Uptime Monitor
+  theme: dark
   navbar:
     - title: Status
       href: /
