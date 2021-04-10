@@ -1,34 +1,68 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
-repo: upptime # Your GitHub repository name
+owner: kind-work # Your GitHub username
+repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: Agri Food Hub
+    url: https://agrifoodhub.org
+  - name: Avery Peters
+    url: https://averypeters.ca
+  - name: Canadian Catholic
+    url: https://canadiancatholic.net
+  - name: Cindy Thompson
+    url: https://cindythompson.ca
+  - name: Humber Valley Triathlon
+    url: https://hvtri.ca
+  - name: Level Justice
+    url: https://leveljustice.org
+  - name: David Cohlmeyer
+    url: https://davidcohlmeyer.ca
+  - name: Don Foulds
+    url: https://donfoulds.com
+  - name: Elegoa
+    url: https://elegoa.com
+  - name: Ginok Song
+    url: https://ginoksong.com
+  - name: Jake Butineau
+    url: https://jakebutineau.ca
+  - name: Jonathan Cohlmeyer Dev
+    url: https://jonathan.cohlmeyer.dev
+  - name: JRC9
+    url: https://jrc9.ca
+  - name: Lissa M Cowan
+    url: https://lissamcowan.com
+  - name: Museums Hamilton
+    url: https://museumshamilton.com
+  - name: Silverlynks
+    url: https://silverlynks.ca
+  - name: Synthescape App
+    url: https://app.synthescape.com
+  - name: Synthescape
+    url: https://www.synthescape.com
+  - name: The New Common
+    url: https://thenewcommon.org
+  - name: Trinity Life
+    url: https://trinitylife.ca
+  - name: Umista Potlatch
+    url: https://umistapotlatch.ca
+  - name: Wesley Harris
+    url: https://wesleyharris.ca
+  - name: Wild Eats
+    url: https://wildeats.ca/blog
+
+assignees:
+  - jcohlmeyer
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: uptime.kind.work
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime**"
+  introMessage: Uptime Monitor
   navbar:
     - title: Status
       href: /
