@@ -11,10 +11,6 @@ sites:
     url: https://canadiancatholic.net
   - name: Cindy Thompson
     url: https://cindythompson.ca
-  - name: Humber Valley Triathlon
-    url: https://hvtri.ca
-  - name: Level Justice
-    url: https://leveljustice.org
   - name: David Cohlmeyer
     url: https://davidcohlmeyer.ca
   - name: Don Foulds
@@ -29,8 +25,6 @@ sites:
     url: https://jonathan.cohlmeyer.dev
   - name: JRC9
     url: https://jrc9.ca
-  - name: Lissa M Cowan
-    url: https://lissamcowan.com
   - name: Museums Hamilton
     url: https://museumshamilton.com
   - name: Silverlynks
@@ -39,16 +33,10 @@ sites:
     url: https://app.synthescape.com
   - name: Synthescape
     url: https://www.synthescape.com
-  - name: The New Common
-    url: https://thenewcommon.org
-  - name: Trinity Life
-    url: https://trinitylife.ca
   - name: Umista Potlatch
     url: https://umistapotlatch.ca
   - name: Wesley Harris
     url: https://wesleyharris.ca
-  - name: Wild Eats
-    url: https://wildeats.ca/blog
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
