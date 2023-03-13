@@ -3,19 +3,57 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Agri Food Hub
+    url: https://agrifoodhub.org
+  - name: Avery Peters
+    url: https://averypeters.ca
+  - name: Canadian Catholic
+    url: https://canadiancatholic.net
+  - name: Cindy Thompson
+    url: https://cindythompson.ca
+  - name: Humber Valley Triathlon
+    url: https://hvtri.ca
+  - name: Level Justice
+    url: https://leveljustice.org
+  - name: David Cohlmeyer
+    url: https://davidcohlmeyer.ca
+  - name: Don Foulds
+    url: https://donfoulds.com
+  - name: Elegoa
+    url: https://elegoa.com
+  - name: Ginok Song
+    url: https://ginoksong.com
+  - name: Jake Butineau
+    url: https://jakebutineau.ca
+  - name: Jonathan Cohlmeyer Dev
+    url: https://jonathan.cohlmeyer.dev
+  - name: JRC9
+    url: https://jrc9.ca
+  - name: Lissa M Cowan
+    url: https://lissamcowan.com
+  - name: Museums Hamilton
+    url: https://museumshamilton.com
+  - name: Silverlynks
+    url: https://silverlynks.ca
+  - name: Synthescape App
+    url: https://app.synthescape.com
+  - name: Synthescape
+    url: https://www.synthescape.com
+  - name: The New Common
+    url: https://thenewcommon.org
+  - name: Trinity Life
+    url: https://trinitylife.ca
+  - name: Umista Potlatch
+    url: https://umistapotlatch.ca
+  - name: Wesley Harris
+    url: https://wesleyharris.ca
+  - name: Wild Eats
+    url: https://wildeats.ca/blog
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.kind.work
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
