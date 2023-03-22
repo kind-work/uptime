@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/averypeters.ca.ico",
     "slug": "avery-peters",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.62%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 306,
     "timeDay": 413,
     "timeWeek": 306,
     "timeMonth": 306,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-03-21": 0
+      "2023-03-22": 45,
+      "2023-03-21": 1
     }
   },
   {
