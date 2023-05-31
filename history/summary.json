@@ -223,18 +223,20 @@
     "url": "https://silverlynks.ca",
     "icon": "https://icons.duckduckgo.com/ip3/silverlynks.ca.ico",
     "slug": "silverlynks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 374,
-    "timeWeek": 194,
-    "timeMonth": 315,
-    "timeYear": 286,
-    "dailyMinutesDown": {}
+    "time": 285,
+    "timeDay": 307,
+    "timeWeek": 200,
+    "timeMonth": 313,
+    "timeYear": 285,
+    "dailyMinutesDown": {
+      "2023-05-31": 0
+    }
   },
   {
     "name": "Synthescape App",
