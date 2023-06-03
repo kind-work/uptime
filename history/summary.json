@@ -298,19 +298,19 @@
     "url": "https://wesleyharris.ca",
     "icon": "https://icons.duckduckgo.com/ip3/wesleyharris.ca.ico",
     "slug": "wesley-harris",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
-    "time": 511,
-    "timeDay": 1146,
-    "timeWeek": 946,
-    "timeMonth": 598,
-    "timeYear": 511,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.94%",
+    "time": 513,
+    "timeDay": 993,
+    "timeWeek": 917,
+    "timeMonth": 601,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-06-03": 39
+      "2023-06-03": 73
     }
   }
 ]
