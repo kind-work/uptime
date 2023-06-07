@@ -79,9 +79,9 @@
     "url": "https://davidcohlmeyer.ca",
     "icon": "https://icons.duckduckgo.com/ip3/davidcohlmeyer.ca.ico",
     "slug": "david-cohlmeyer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +90,9 @@
     "timeWeek": 403,
     "timeMonth": 322,
     "timeYear": 367,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-07": 0
+    }
   },
   {
     "name": "Don Foulds",
@@ -224,14 +226,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/silverlynks.ca.ico",
     "slug": "silverlynks",
     "status": "up",
-    "uptime": "98.40%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.42%",
+    "uptimeWeek": "82.00%",
     "uptimeMonth": "95.49%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.41%",
     "time": 283,
     "timeDay": 210,
-    "timeWeek": 255,
+    "timeWeek": 257,
     "timeMonth": 298,
     "timeYear": 283,
     "dailyMinutesDown": {
