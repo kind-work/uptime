@@ -226,11 +226,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/silverlynks.ca.ico",
     "slug": "silverlynks",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.93%",
+    "uptimeYear": "98.94%",
     "time": 277,
     "timeDay": 483,
     "timeWeek": 301,
@@ -264,9 +264,9 @@
     "url": "https://www.synthescape.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.synthescape.com.ico",
     "slug": "synthescape",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -275,7 +275,9 @@
     "timeWeek": 255,
     "timeMonth": 204,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 0
+    }
   },
   {
     "name": "Umista Potlatch",
