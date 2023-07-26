@@ -24,11 +24,11 @@
     "url": "https://averypeters.ca",
     "icon": "https://icons.duckduckgo.com/ip3/averypeters.ca.ico",
     "slug": "avery-peters",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 388,
     "timeDay": 358,
@@ -36,6 +36,7 @@
     "timeMonth": 380,
     "timeYear": 388,
     "dailyMinutesDown": {
+      "2023-07-26": 3,
       "2023-07-25": 17,
       "2023-03-22": 45,
       "2023-03-21": 1
@@ -64,18 +65,20 @@
     "url": "https://cindythompson.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cindythompson.ca.ico",
     "slug": "cindy-thompson",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 295,
     "timeDay": 269,
     "timeWeek": 254,
     "timeMonth": 248,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 3
+    }
   },
   {
     "name": "David Cohlmeyer",
@@ -102,18 +105,20 @@
     "url": "https://donfoulds.com",
     "icon": "https://icons.duckduckgo.com/ip3/donfoulds.com.ico",
     "slug": "don-foulds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 233,
     "timeDay": 283,
     "timeWeek": 239,
     "timeMonth": 211,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 2
+    }
   },
   {
     "name": "Elegoa",
@@ -138,10 +143,10 @@
     "url": "https://ginoksong.com",
     "icon": "https://icons.duckduckgo.com/ip3/ginoksong.com.ico",
     "slug": "ginok-song",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
@@ -149,17 +154,19 @@
     "timeWeek": 383,
     "timeMonth": 316,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 2
+    }
   },
   {
     "name": "Jake Butineau",
     "url": "https://jakebutineau.ca",
     "icon": "https://icons.duckduckgo.com/ip3/jakebutineau.ca.ico",
     "slug": "jake-butineau",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
@@ -167,7 +174,9 @@
     "timeWeek": 266,
     "timeMonth": 250,
     "timeYear": 271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "Jonathan Cohlmeyer Dev",
@@ -228,10 +237,10 @@
     "url": "https://silverlynks.ca",
     "icon": "https://icons.duckduckgo.com/ip3/silverlynks.ca.ico",
     "slug": "silverlynks",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
     "time": 277,
@@ -240,6 +249,7 @@
     "timeMonth": 258,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-06-01": 1419,
       "2023-05-31": 554
     }
@@ -303,9 +313,9 @@
     "url": "https://wesleyharris.ca",
     "icon": "https://icons.duckduckgo.com/ip3/wesleyharris.ca.ico",
     "slug": "wesley-harris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -315,6 +325,7 @@
     "timeMonth": 414,
     "timeYear": 487,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-06-03": 73
     }
   }
