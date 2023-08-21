@@ -193,9 +193,9 @@
     "url": "https://jrc9.ca",
     "icon": "https://icons.duckduckgo.com/ip3/jrc9.ca.ico",
     "slug": "jrc-9",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -204,7 +204,9 @@
     "timeWeek": 262,
     "timeMonth": 243,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-21": 0
+    }
   },
   {
     "name": "Museums Hamilton",
