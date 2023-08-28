@@ -193,19 +193,19 @@
     "url": "https://jrc9.ca",
     "icon": "https://icons.duckduckgo.com/ip3/jrc9.ca.ico",
     "slug": "jrc-9",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 286,
-    "timeDay": 260,
-    "timeWeek": 257,
+    "timeDay": 255,
+    "timeWeek": 255,
     "timeMonth": 252,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2023-08-28": 1
+      "2023-08-28": 36
     }
   },
   {
