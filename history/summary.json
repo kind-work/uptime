@@ -270,19 +270,19 @@
     "url": "https://www.synthescape.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.synthescape.com.ico",
     "slug": "synthescape",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 95,
-    "timeWeek": 183,
-    "timeMonth": 204,
-    "timeYear": 221,
+    "time": 222,
+    "timeDay": 226,
+    "timeWeek": 217,
+    "timeMonth": 212,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-09-24": 0
+      "2023-09-24": 11
     }
   },
   {
