@@ -270,18 +270,20 @@
     "url": "https://www.synthescape.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.synthescape.com.ico",
     "slug": "synthescape",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 101,
-    "timeWeek": 196,
-    "timeMonth": 207,
-    "timeYear": 222,
-    "dailyMinutesDown": {}
+    "time": 221,
+    "timeDay": 95,
+    "timeWeek": 183,
+    "timeMonth": 204,
+    "timeYear": 221,
+    "dailyMinutesDown": {
+      "2023-09-24": 0
+    }
   },
   {
     "name": "Umista Potlatch",
