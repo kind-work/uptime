@@ -1,7 +1,7 @@
 url: https://jrc9.ca
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2023-09-28T23:12:45.583Z
+status: down
+code: 500
+responseTime: 296
+lastUpdated: 2023-09-29T13:59:59.367Z
 startTime: 2023-03-13T10:07:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
