@@ -204,18 +204,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jrc9.ca.ico",
     "slug": "jrc-9",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 273,
     "timeDay": 250,
     "timeWeek": 302,
     "timeMonth": 251,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2023-12-22": 12,
       "2023-09-29": 18,
       "2023-08-28": 36
     }
