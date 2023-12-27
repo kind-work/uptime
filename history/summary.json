@@ -50,19 +50,19 @@
     "url": "https://canadiancatholic.net",
     "icon": "https://icons.duckduckgo.com/ip3/canadiancatholic.net.ico",
     "slug": "canadian-catholic",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 280,
-    "timeWeek": 516,
-    "timeMonth": 372,
-    "timeYear": 361,
+    "time": 360,
+    "timeDay": 220,
+    "timeWeek": 471,
+    "timeMonth": 365,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2023-12-27": 0
+      "2023-12-27": 18
     }
   },
   {
