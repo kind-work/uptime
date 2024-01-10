@@ -230,11 +230,11 @@
     "url": "https://museumshamilton.com",
     "icon": "https://icons.duckduckgo.com/ip3/museumshamilton.com.ico",
     "slug": "museums-hamilton",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 174,
@@ -242,7 +242,7 @@
     "timeMonth": 312,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2024-01-10": 9
+      "2024-01-10": 2
     }
   },
   {
@@ -271,10 +271,10 @@
     "url": "https://app.synthescape.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.synthescape.com.ico",
     "slug": "synthescape-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
@@ -282,7 +282,9 @@
     "timeWeek": 203,
     "timeMonth": 196,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 1
+    }
   },
   {
     "name": "Synthescape",
@@ -311,18 +313,16 @@
     "slug": "umista-potlatch",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 120,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 284,
-    "dailyMinutesDown": {
-      "2024-01-10": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wesley Harris",
