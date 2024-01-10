@@ -230,19 +230,19 @@
     "url": "https://museumshamilton.com",
     "icon": "https://icons.duckduckgo.com/ip3/museumshamilton.com.ico",
     "slug": "museums-hamilton",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 174,
-    "timeWeek": 321,
-    "timeMonth": 312,
-    "timeYear": 329,
+    "time": 330,
+    "timeDay": 286,
+    "timeWeek": 342,
+    "timeMonth": 318,
+    "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-01-10": 2
+      "2024-01-10": 20
     }
   },
   {
@@ -271,19 +271,19 @@
     "url": "https://app.synthescape.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.synthescape.com.ico",
     "slug": "synthescape-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 95,
-    "timeWeek": 203,
-    "timeMonth": 196,
-    "timeYear": 214,
+    "time": 215,
+    "timeDay": 206,
+    "timeWeek": 218,
+    "timeMonth": 200,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-01-10": 1
+      "2024-01-10": 18
     }
   },
   {
