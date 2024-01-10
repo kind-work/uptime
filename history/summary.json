@@ -53,18 +53,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/canadiancatholic.net.ico",
     "slug": "canadian-catholic",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 357,
     "timeDay": 295,
     "timeWeek": 319,
     "timeMonth": 393,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-01-10": 10,
       "2023-12-27": 18
     }
   },
@@ -231,18 +230,20 @@
     "url": "https://museumshamilton.com",
     "icon": "https://icons.duckduckgo.com/ip3/museumshamilton.com.ico",
     "slug": "museums-hamilton",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 171,
     "timeWeek": 342,
     "timeMonth": 316,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 3
+    }
   },
   {
     "name": "Silverlynks",
@@ -308,10 +309,10 @@
     "url": "https://umistapotlatch.ca",
     "icon": "https://icons.duckduckgo.com/ip3/umistapotlatch.ca.ico",
     "slug": "umista-potlatch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
@@ -319,7 +320,9 @@
     "timeWeek": 245,
     "timeMonth": 233,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 2
+    }
   },
   {
     "name": "Wesley Harris",
