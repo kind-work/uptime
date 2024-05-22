@@ -140,18 +140,20 @@
     "url": "https://elegoa.com",
     "icon": "https://icons.duckduckgo.com/ip3/elegoa.com.ico",
     "slug": "elegoa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 199,
-    "timeWeek": 362,
-    "timeMonth": 353,
+    "time": 362,
+    "timeDay": 200,
+    "timeWeek": 342,
+    "timeMonth": 348,
     "timeYear": 355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-22": 0
+    }
   },
   {
     "name": "Ginok Song",
