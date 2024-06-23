@@ -162,9 +162,9 @@
     "url": "https://ginoksong.com",
     "icon": "https://icons.duckduckgo.com/ip3/ginoksong.com.ico",
     "slug": "ginok-song",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -173,7 +173,9 @@
     "timeWeek": 497,
     "timeMonth": 373,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-23": 0
+    }
   },
   {
     "name": "Jake Butineau",
