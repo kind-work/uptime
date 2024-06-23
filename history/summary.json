@@ -162,19 +162,19 @@
     "url": "https://ginoksong.com",
     "icon": "https://icons.duckduckgo.com/ip3/ginoksong.com.ico",
     "slug": "ginok-song",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
     "time": 323,
-    "timeDay": 543,
-    "timeWeek": 497,
-    "timeMonth": 373,
+    "timeDay": 483,
+    "timeWeek": 488,
+    "timeMonth": 375,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2024-06-23": 0
+      "2024-06-23": 72
     }
   },
   {
