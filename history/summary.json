@@ -22,7 +22,7 @@
     "url": "https://averypeters.ca",
     "icon": "https://icons.duckduckgo.com/ip3/averypeters.ca.ico",
     "slug": "avery-peters",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "97.56%",
     "uptimeWeek": "99.65%",
@@ -34,6 +34,7 @@
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
+      "2024-08-16": 0,
       "2024-08-15": 35,
       "2024-07-29": 19,
       "2024-07-15": 19,
