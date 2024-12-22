@@ -70,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/canadiancatholic.net.ico",
     "slug": "canadian-catholic",
     "status": "down",
-    "uptime": "98.78%",
+    "uptime": "98.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.08%",
-    "uptimeYear": "97.83%",
+    "uptimeMonth": "71.78%",
+    "uptimeYear": "97.64%",
     "time": 319,
     "timeDay": 117,
     "timeWeek": 214,
     "timeMonth": 258,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2024-12-22": 71,
+      "2024-12-22": 1077,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
@@ -312,10 +312,10 @@
     "url": "https://wesleyharris.ca",
     "icon": "https://icons.duckduckgo.com/ip3/wesleyharris.ca.ico",
     "slug": "wesley-harris",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 379,
@@ -323,6 +323,8 @@
     "timeWeek": 332,
     "timeMonth": 346,
     "timeYear": 370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-22": 1
+    }
   }
 ]
