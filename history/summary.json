@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 239,
-    "timeWeek": 336,
-    "timeMonth": 305,
-    "timeYear": 273,
+    "time": 261,
+    "timeDay": 453,
+    "timeWeek": 335,
+    "timeMonth": 314,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 317,
-    "timeDay": 352,
-    "timeWeek": 306,
-    "timeMonth": 472,
+    "timeDay": 225,
+    "timeWeek": 269,
+    "timeMonth": 461,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2024-10-24": 102,
@@ -68,15 +68,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/canadiancatholic.net.ico",
     "slug": "canadian-catholic",
     "status": "up",
-    "uptime": "96.42%",
+    "uptime": "96.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "15.26%",
+    "uptimeWeek": "29.54%",
     "uptimeMonth": "21.72%",
     "uptimeYear": "93.47%",
     "time": 316,
-    "timeDay": 483,
-    "timeWeek": 254,
-    "timeMonth": 244,
+    "timeDay": 220,
+    "timeWeek": 230,
+    "timeMonth": 243,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2025-01-06": 1408,
@@ -118,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 428,
-    "timeWeek": 219,
-    "timeMonth": 219,
+    "timeDay": 187,
+    "timeWeek": 201,
+    "timeMonth": 220,
     "timeYear": 200,
     "dailyMinutesDown": {}
   },
@@ -135,10 +135,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 297,
-    "timeDay": 556,
-    "timeWeek": 294,
-    "timeMonth": 281,
+    "time": 296,
+    "timeDay": 169,
+    "timeWeek": 238,
+    "timeMonth": 280,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2024-11-07": 317
@@ -156,9 +156,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 191,
-    "timeDay": 240,
-    "timeWeek": 188,
-    "timeMonth": 192,
+    "timeDay": 136,
+    "timeWeek": 178,
+    "timeMonth": 191,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2024-03-16": 44
@@ -176,9 +176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 347,
-    "timeDay": 607,
-    "timeWeek": 317,
-    "timeMonth": 319,
+    "timeDay": 222,
+    "timeWeek": 271,
+    "timeMonth": 320,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2024-05-22": 44
@@ -195,11 +195,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 280,
-    "timeDay": 345,
-    "timeWeek": 238,
-    "timeMonth": 274,
-    "timeYear": 282,
+    "time": 279,
+    "timeDay": 320,
+    "timeWeek": 245,
+    "timeMonth": 278,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2024-03-16": 64
     }
@@ -216,7 +216,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 481,
+    "timeDay": 239,
     "timeWeek": 312,
     "timeMonth": 261,
     "timeYear": 259,
@@ -233,14 +233,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 641,
-    "timeWeek": 337,
+    "time": 318,
+    "timeDay": 209,
+    "timeWeek": 273,
     "timeMonth": 327,
-    "timeYear": 317,
-    "dailyMinutesDown": {
-      "2024-01-10": 20
-    }
+    "timeYear": 316,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silverlynks",
@@ -253,10 +251,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 425,
-    "timeWeek": 230,
-    "timeMonth": 226,
+    "time": 223,
+    "timeDay": 203,
+    "timeWeek": 201,
+    "timeMonth": 227,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -272,13 +270,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 376,
-    "timeWeek": 220,
-    "timeMonth": 211,
+    "timeDay": 163,
+    "timeWeek": 192,
+    "timeMonth": 210,
     "timeYear": 205,
-    "dailyMinutesDown": {
-      "2024-01-10": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Synthescape",
@@ -292,10 +288,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 456,
-    "timeWeek": 257,
-    "timeMonth": 230,
-    "timeYear": 238,
+    "timeDay": 98,
+    "timeWeek": 209,
+    "timeMonth": 229,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -310,10 +306,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 440,
-    "timeWeek": 238,
-    "timeMonth": 242,
-    "timeYear": 238,
+    "timeDay": 132,
+    "timeWeek": 192,
+    "timeMonth": 241,
+    "timeYear": 237,
     "dailyMinutesDown": {}
   },
   {
@@ -328,10 +324,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 375,
-    "timeDay": 738,
-    "timeWeek": 354,
-    "timeMonth": 377,
-    "timeYear": 368,
+    "timeDay": 155,
+    "timeWeek": 281,
+    "timeMonth": 371,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2024-12-22": 29
     }
