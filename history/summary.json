@@ -70,7 +70,7 @@
     "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.63%",
+    "uptimeMonth": "71.16%",
     "uptimeYear": "93.47%",
     "time": 316,
     "timeDay": 466,
@@ -208,9 +208,9 @@
     "url": "https://jrc9.ca",
     "icon": "https://icons.duckduckgo.com/ip3/jrc9.ca.ico",
     "slug": "jrc-9",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,7 +219,9 @@
     "timeWeek": 227,
     "timeMonth": 272,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Museums Hamilton",
