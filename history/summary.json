@@ -22,9 +22,9 @@
     "url": "https://averypeters.ca",
     "icon": "https://icons.duckduckgo.com/ip3/averypeters.ca.ico",
     "slug": "avery-peters",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -34,6 +34,7 @@
     "timeMonth": 666,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-02-26": 33,
       "2024-10-24": 102,
       "2024-10-23": 48,
@@ -60,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/canadiancatholic.net.ico",
     "slug": "canadian-catholic",
     "status": "up",
-    "uptime": "96.91%",
+    "uptime": "96.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -108,9 +109,9 @@
     "url": "https://cindythompson.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cindythompson.ca.ico",
     "slug": "cindy-thompson",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,25 +120,28 @@
     "timeWeek": 1673,
     "timeMonth": 867,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "David Cohlmeyer",
     "url": "https://davidcohlmeyer.ca",
     "icon": "https://icons.duckduckgo.com/ip3/davidcohlmeyer.ca.ico",
     "slug": "david-cohlmeyer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 284,
+    "time": 285,
     "timeDay": 363,
     "timeWeek": 223,
     "timeMonth": 203,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-03-30": 53,
       "2025-03-03": 98,
       "2024-11-07": 317
@@ -148,9 +152,9 @@
     "url": "https://donfoulds.com",
     "icon": "https://icons.duckduckgo.com/ip3/donfoulds.com.ico",
     "slug": "don-foulds",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +163,9 @@
     "timeWeek": 249,
     "timeMonth": 186,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "Elegoa",
