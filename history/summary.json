@@ -32,7 +32,7 @@
     "timeDay": 372,
     "timeWeek": 270,
     "timeMonth": 635,
-    "timeYear": 361,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2025-02-26": 33,
       "2024-10-24": 102,
@@ -205,18 +205,19 @@
     "url": "https://jrc9.ca",
     "icon": "https://icons.duckduckgo.com/ip3/jrc9.ca.ico",
     "slug": "jrc-9",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
+    "time": 272,
     "timeDay": 264,
     "timeWeek": 383,
     "timeMonth": 330,
     "timeYear": 281,
     "dailyMinutesDown": {
+      "2025-05-09": 0,
       "2025-01-29": 18
     }
   },
