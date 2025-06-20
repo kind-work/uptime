@@ -127,9 +127,9 @@
     "slug": "david-cohlmeyer",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 286,
     "timeDay": 1160,
@@ -137,7 +137,6 @@
     "timeMonth": 357,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-06-19": 11,
       "2025-03-30": 53,
       "2025-03-03": 98,
       "2024-11-07": 317
@@ -189,18 +188,16 @@
     "slug": "jonathan-cohlmeyer-dev",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
     "timeDay": 793,
     "timeWeek": 992,
     "timeMonth": 568,
     "timeYear": 357,
-    "dailyMinutesDown": {
-      "2025-06-19": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "JRC9",
@@ -209,9 +206,9 @@
     "slug": "jrc-9",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 282,
     "timeDay": 1294,
@@ -219,7 +216,6 @@
     "timeMonth": 375,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2025-06-19": 11,
       "2025-05-09": 17,
       "2025-01-29": 18
     }
