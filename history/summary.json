@@ -27,12 +27,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.91%",
     "time": 427,
     "timeDay": 162,
-    "timeWeek": 359,
+    "timeWeek": 352,
     "timeMonth": 379,
     "timeYear": 479,
     "dailyMinutesDown": {
@@ -58,7 +58,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/canadiancatholic.net.ico",
     "slug": "canadian-catholic",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -295,10 +295,10 @@
     "url": "https://www.synthescape.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.synthescape.com.ico",
     "slug": "synthescape",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
@@ -306,7 +306,9 @@
     "timeWeek": 358,
     "timeMonth": 339,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 1
+    }
   },
   {
     "name": "Umista Potlatch",
