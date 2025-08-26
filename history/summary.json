@@ -295,19 +295,19 @@
     "url": "https://www.synthescape.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.synthescape.com.ico",
     "slug": "synthescape",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 203,
-    "timeWeek": 358,
-    "timeMonth": 339,
+    "time": 261,
+    "timeDay": 363,
+    "timeWeek": 379,
+    "timeMonth": 345,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-08-26": 1
+      "2025-08-26": 9
     }
   },
   {
