@@ -4,10 +4,10 @@
     "url": "https://agrifoodhub.org",
     "icon": "https://icons.duckduckgo.com/ip3/agrifoodhub.org.ico",
     "slug": "agri-food-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
@@ -16,6 +16,7 @@
     "timeMonth": 381,
     "timeYear": 337,
     "dailyMinutesDown": {
+      "2025-10-20": 2,
       "2025-07-24": 18
     }
   },
@@ -75,10 +76,10 @@
     "url": "https://cindythompson.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cindythompson.ca.ico",
     "slug": "cindy-thompson",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
@@ -87,6 +88,7 @@
     "timeMonth": 221,
     "timeYear": 358,
     "dailyMinutesDown": {
+      "2025-10-20": 2,
       "2025-07-24": 18
     }
   },
@@ -120,9 +122,9 @@
     "slug": "don-foulds",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 329,
     "timeDay": 237,
@@ -130,7 +132,7 @@
     "timeMonth": 594,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2025-10-20": 11,
+      "2025-10-20": 58,
       "2025-07-24": 18
     }
   },
@@ -160,10 +162,10 @@
     "url": "https://jonathan.cohlmeyer.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jonathan.cohlmeyer.dev.ico",
     "slug": "jonathan-cohlmeyer-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 389,
@@ -172,6 +174,7 @@
     "timeMonth": 610,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-10-18": 19,
       "2025-10-17": 24,
       "2025-08-29": 21,
@@ -250,11 +253,11 @@
     "url": "https://app.synthescape.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.synthescape.com.ico",
     "slug": "synthescape-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 251,
     "timeDay": 1869,
@@ -262,7 +265,7 @@
     "timeMonth": 560,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-10-20": 10,
+      "2025-10-20": 1,
       "2025-10-15": 23,
       "2025-03-03": 97
     }
@@ -272,9 +275,9 @@
     "url": "https://www.synthescape.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.synthescape.com.ico",
     "slug": "synthescape",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -284,6 +287,7 @@
     "timeMonth": 440,
     "timeYear": 307,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-10-15": 22
     }
   },
