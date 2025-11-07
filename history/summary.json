@@ -77,10 +77,10 @@
     "url": "https://cindythompson.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cindythompson.ca.ico",
     "slug": "cindy-thompson",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 337,
@@ -89,6 +89,7 @@
     "timeMonth": 460,
     "timeYear": 378,
     "dailyMinutesDown": {
+      "2025-11-07": 1,
       "2025-10-20": 51,
       "2025-07-24": 18
     }
@@ -103,12 +104,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 278,
     "timeDay": 339,
     "timeWeek": 274,
     "timeMonth": 251,
-    "timeYear": 277,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2025-07-24": 18,
       "2025-03-30": 53,
