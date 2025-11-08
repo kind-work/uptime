@@ -19,8 +19,6 @@ sites:
     url: https://jonathan.cohlmeyer.dev
   - name: JRC9
     url: https://jrc9.ca
-  - name: Museums Hamilton
-    url: https://museumshamilton.com
   - name: Silverlynks
     url: https://silverlynks.ca
   - name: Synthescape App
