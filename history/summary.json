@@ -219,10 +219,10 @@
     "url": "https://museumshamilton.com",
     "icon": "https://icons.duckduckgo.com/ip3/museumshamilton.com.ico",
     "slug": "museums-hamilton",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 291,
@@ -231,6 +231,7 @@
     "timeMonth": 220,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2025-11-08": 1,
       "2025-08-02": 861,
       "2025-03-03": 97
     }
@@ -288,9 +289,9 @@
     "slug": "synthescape",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "94.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "94.40%",
     "uptimeYear": "99.53%",
     "time": 307,
     "timeDay": 349,
@@ -298,7 +299,6 @@
     "timeMonth": 602,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-11-08": 14,
       "2025-11-05": 21,
       "2025-11-01": 23,
       "2025-10-31": 23,
