@@ -14,7 +14,7 @@
     "timeDay": 423,
     "timeWeek": 336,
     "timeMonth": 507,
-    "timeYear": 371,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2026-03-11": 45,
       "2026-01-06": 19,
@@ -38,7 +38,7 @@
     "timeDay": 583,
     "timeWeek": 445,
     "timeMonth": 322,
-    "timeYear": 460,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2026-01-06": 19,
       "2025-12-18": 19,
@@ -87,7 +87,7 @@
     "timeDay": 331,
     "timeWeek": 329,
     "timeMonth": 248,
-    "timeYear": 579,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2026-04-02": 60,
       "2026-03-11": 45,
@@ -123,18 +123,19 @@
     "url": "https://jonathan.cohlmeyer.dev",
     "icon": "https://icons.duckduckgo.com/ip3/jonathan.cohlmeyer.dev.ico",
     "slug": "jonathan-cohlmeyer-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.43%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "99.44%",
-    "time": 566,
+    "time": 567,
     "timeDay": 677,
     "timeWeek": 719,
     "timeMonth": 779,
-    "timeYear": 641,
+    "timeYear": 632,
     "dailyMinutesDown": {
+      "2026-04-23": 0,
       "2026-04-16": 219,
       "2026-04-12": 50,
       "2026-04-11": 26,
@@ -281,7 +282,7 @@
     "timeDay": 400,
     "timeWeek": 324,
     "timeMonth": 272,
-    "timeYear": 246,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2025-08-02": 861
     }
@@ -301,7 +302,7 @@
     "timeDay": 645,
     "timeWeek": 684,
     "timeMonth": 482,
-    "timeYear": 369,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2026-03-18": 67,
       "2025-12-19": 24
