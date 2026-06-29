@@ -112,9 +112,9 @@
     "slug": "elegoa",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 381,
     "timeDay": 211,
@@ -122,7 +122,7 @@
     "timeMonth": 419,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2026-06-29": 0
+      "2026-06-29": 3
     }
   },
   {
